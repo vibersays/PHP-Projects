@@ -1,4 +1,5 @@
 <?php
+echo "simple summation";
 while(true){
 	echo "masukan angka pertama => ";
 	$angka1=trim(fgets(STDIN));
